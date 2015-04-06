@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
               android:layout_width="match_parent"
-              android:layout_height="match_parent">
+              android:layout_height="match_parent" android:background="#fff">
 
-</LinearLayout>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vote Me In!"
+            android:id="@+id/textView"
+            android:textSize="50dp" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp" android:layout_marginBottom="30dp" android:textColor="#000"
+            android:textStyle="bold"/>
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Only you can decide"
+            android:id="@+id/textView2"
+            android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"
+            android:gravity="bottom|right" android:textSize="25dp" android:layout_marginRight="10dp"
+            android:textColor="#000" android:textStyle="italic"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/textView3"
+            android:background="@drawable/vote"
+            android:layout_above="@+id/textView2" android:layout_alignLeft="@+id/textView2"
+            android:layout_alignStart="@+id/textView2" android:layout_marginBottom="42dp"
+            android:layout_below="@+id/textView"/>
+</RelativeLayout>

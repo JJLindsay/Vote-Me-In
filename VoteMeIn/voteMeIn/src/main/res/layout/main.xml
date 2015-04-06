@@ -11,7 +11,7 @@
             android:layout_width="200sp"
             android:layout_height="230sp"
             android:id="@+id/imageSwitcher" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"
-            android:layout_marginTop="60sp" android:background="#ffcccc"/>
+            android:layout_marginTop="60sp" android:background="@drawable/tedcruz"/>
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
