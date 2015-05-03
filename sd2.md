@@ -3,6 +3,7 @@
 
 For my project I created an application that 
 
-![Nice logo](http://192.241.236.35/wp-content/uploads/2013/09/thoughtbot-logo.jpg)
+![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png)
 
+![Xml](http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-7/256/Xml-tool-icon.png)
 
