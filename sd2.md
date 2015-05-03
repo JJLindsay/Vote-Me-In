@@ -14,9 +14,13 @@ JSON is short for JavaScript Object Notation, and is a way to store information 
 Storing JSON Data
 
 As a simple example, information about me might be written in JSON as follows:
-
-
-
+```
+var jason = {
+	"age" : "24",
+	"hometown" : "Missoula, MT",
+	"gender" : "male"
+};
+```
 #What is XML
 <hr/>
 ![Xml](http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-7/256/Xml-tool-icon.png)
