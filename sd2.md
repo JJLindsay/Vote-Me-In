@@ -5,7 +5,9 @@ For my project I created an application that would communicate with a JSON or XM
 
 #What is JSON
 <hr/>
-![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png)
+![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png|center)
+
+
 
 
 #What is XML
