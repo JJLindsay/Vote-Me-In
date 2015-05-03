@@ -8,7 +8,6 @@ For my project I created an application that would communicate with a JSON or XM
 ![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png)
 
 
-#What is XML 
+#What is XML
 <hr/>
 ![Xml](http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-7/256/Xml-tool-icon.png)
-
