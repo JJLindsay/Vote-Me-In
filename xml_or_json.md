@@ -5,9 +5,8 @@ For my project I created an application that would communicate with a JSON or XM
 
 So before I get into why I chose XML over JSON, it's probably important to know what JSON and XML actually is.
 
-#What is JSON?
-<hr/>
-->![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png)<-
+
++![Json](http://www.tridiondeveloper.com/wp-content/uploads/2013/09/logo-json.png)
 
 
 JSON is short for JavaScript Object Notation, and is a way to store information in an organized, easy-to-access manner. In a nutshell, it gives us a human-readable collection of data that we can access in a really logical manner.
