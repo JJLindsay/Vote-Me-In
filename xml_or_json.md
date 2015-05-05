@@ -12,9 +12,9 @@ So before I get into why I chose XML over JSON, it's probably important to know 
 
 JSON is short for JavaScript Object Notation, and is a way to store information in an organized, easy-to-access manner. In a nutshell, it gives us a human-readable collection of data that we can access in a really logical manner.
 
-##Storing JSON Data
+#####Storing JSON Data
 
-As a simple example, information about me might be written in JSON as follows:
+As a simple example, information might be written in JSON as follows:
 ```
 var jason = {
 	"age" : "24",
